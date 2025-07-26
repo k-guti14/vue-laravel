@@ -16,6 +16,7 @@ export default defineConfig({
         hmr: {
             host: 'vue-laravel.local.test-net.com',
         },
+        cors: true,
         watch: {
             usePolling: true,
         },
