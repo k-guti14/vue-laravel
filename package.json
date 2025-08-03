@@ -16,6 +16,7 @@
         "vite": "^6.2.4"
     },
     "dependencies": {
-        "vue-router": "^4.5.1"
+        "vue-router": "^4.5.1",
+        "vuetify": "^3.9.3"
     }
 }
