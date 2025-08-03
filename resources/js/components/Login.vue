@@ -1,9 +1,9 @@
 <!-- About.vue -->
 <template>
-    <div><h2>次のページ</h2></div>
+    <div><h2>Login</h2></div>
 </template>
 <script>
 export default {
-    name: 'About'
+    name: 'Login'
 }
 </script>
