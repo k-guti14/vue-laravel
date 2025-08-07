@@ -3,7 +3,7 @@
     <div>
         <h2>ホームページ</h2>
     </div>
-    <p>Login</p>
+    <router-link to="/login">Login</router-link>
 </template>
 
 <script>
